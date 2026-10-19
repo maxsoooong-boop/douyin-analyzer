@@ -1,0 +1,27 @@
+# 虚拟环境
+.venv/
+venv/
+
+# 大文件输出
+outputs/
+downloads/
+*.mp4
+*.zip
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+~$*
+*.log
